@@ -2,7 +2,7 @@
 This is the official research data of a paper titled "Enhancing Estrus Detection in Dairy Cows: A Cumulative Scoring Model Using Sexual Activity Classification". Including Dataset and Sexual Activity Classification Model source code.
 
 # System Architecture
-![figure_1](https://github.com/user-attachments/assets/384e9e31-44f7-4ff5-8858-f86e1cb69349)
+![Archi](https://github.com/user-attachments/assets/9efd5ba9-20f8-4a70-8f70-0ab745fccb71)
 
 # Dataset
 Images with YoloV8 annotations: https://drive.google.com/drive/folders/1wSMyAKsMcanuqFcyT1Qem_65ptANPDxV?usp=sharing
