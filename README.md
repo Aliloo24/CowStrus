@@ -1,5 +1,5 @@
 # CowStrus
-This is the official research data of a paper titled "Enhancing Estrus Detection in Dairy Cows: A Cumulative Scoring Model Using Sexual Activity Classification". Including Dataset and Sexual Activity Classification Model source code.
+This is the official research data of an Automated Estrus Detection System called "CowStrus", Using Deep Learning and Behavioral Data Analysis. The research data includs Dataset and the Sexual Activity Classification Model source code.
 
 # System Architecture
 ![Archi](https://github.com/user-attachments/assets/9efd5ba9-20f8-4a70-8f70-0ab745fccb71)
