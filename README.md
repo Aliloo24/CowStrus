@@ -7,7 +7,7 @@ This is the official research data of an Automated Estrus Detection System calle
 # Dataset
 The generated dataset on YoloV8 annotation format & Sexual Activities Samples are available upon request at:: https://drive.google.com/drive/folders/1wSMyAKsMcanuqFcyT1Qem_65ptANPDxV?usp=sharing
 
-# Dataset Visualizations
+# Dataset Samples and Annotations
 ![image](https://github.com/user-attachments/assets/ed9ff878-ab82-44d4-ad33-269142e0e2a8)
 ![image](https://github.com/user-attachments/assets/33bbe9eb-b11f-45c1-825f-0e04dc5804b9)
 
